@@ -1,0 +1,8 @@
+.DS_Store
+bazel-*
+\#*\#
+.vscode
+*.db
+.clwb
+fp-info-cache
+.idea
